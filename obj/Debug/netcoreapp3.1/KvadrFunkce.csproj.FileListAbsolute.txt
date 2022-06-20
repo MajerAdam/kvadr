@@ -1,0 +1,14 @@
+C:\Users\adam\source\repos\KvadrFunkce\bin\Debug\netcoreapp3.1\KvadrFunkce.exe
+C:\Users\adam\source\repos\KvadrFunkce\bin\Debug\netcoreapp3.1\KvadrFunkce.deps.json
+C:\Users\adam\source\repos\KvadrFunkce\bin\Debug\netcoreapp3.1\KvadrFunkce.runtimeconfig.json
+C:\Users\adam\source\repos\KvadrFunkce\bin\Debug\netcoreapp3.1\KvadrFunkce.runtimeconfig.dev.json
+C:\Users\adam\source\repos\KvadrFunkce\bin\Debug\netcoreapp3.1\KvadrFunkce.dll
+C:\Users\adam\source\repos\KvadrFunkce\bin\Debug\netcoreapp3.1\KvadrFunkce.pdb
+C:\Users\adam\source\repos\KvadrFunkce\obj\Debug\netcoreapp3.1\KvadrFunkce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam\source\repos\KvadrFunkce\obj\Debug\netcoreapp3.1\KvadrFunkce.AssemblyInfoInputs.cache
+C:\Users\adam\source\repos\KvadrFunkce\obj\Debug\netcoreapp3.1\KvadrFunkce.AssemblyInfo.cs
+C:\Users\adam\source\repos\KvadrFunkce\obj\Debug\netcoreapp3.1\KvadrFunkce.csproj.CoreCompileInputs.cache
+C:\Users\adam\source\repos\KvadrFunkce\obj\Debug\netcoreapp3.1\KvadrFunkce.dll
+C:\Users\adam\source\repos\KvadrFunkce\obj\Debug\netcoreapp3.1\KvadrFunkce.pdb
+C:\Users\adam\source\repos\KvadrFunkce\obj\Debug\netcoreapp3.1\KvadrFunkce.genruntimeconfig.cache
+C:\Users\adam\source\repos\KvadrFunkce\obj\Debug\netcoreapp3.1\KvadrFunkce.csproj.AssemblyReference.cache
